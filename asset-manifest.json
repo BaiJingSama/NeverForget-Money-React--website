@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NeverForget-Money-React--website/static/css/main.bc7916d0.chunk.css",
+    "main.js": "/NeverForget-Money-React--website/static/js/main.59d47740.chunk.js",
+    "main.js.map": "/NeverForget-Money-React--website/static/js/main.59d47740.chunk.js.map",
+    "runtime-main.js": "/NeverForget-Money-React--website/static/js/runtime-main.0f4fec7d.js",
+    "runtime-main.js.map": "/NeverForget-Money-React--website/static/js/runtime-main.0f4fec7d.js.map",
+    "static/js/2.0c49beba.chunk.js": "/NeverForget-Money-React--website/static/js/2.0c49beba.chunk.js",
+    "static/js/2.0c49beba.chunk.js.map": "/NeverForget-Money-React--website/static/js/2.0c49beba.chunk.js.map",
+    "index.html": "/NeverForget-Money-React--website/index.html",
+    "precache-manifest.fdd5922fe3a37964eb672f39a3441c26.js": "/NeverForget-Money-React--website/precache-manifest.fdd5922fe3a37964eb672f39a3441c26.js",
+    "service-worker.js": "/NeverForget-Money-React--website/service-worker.js",
+    "static/css/main.bc7916d0.chunk.css.map": "/NeverForget-Money-React--website/static/css/main.bc7916d0.chunk.css.map",
+    "static/js/2.0c49beba.chunk.js.LICENSE.txt": "/NeverForget-Money-React--website/static/js/2.0c49beba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f4fec7d.js",
+    "static/js/2.0c49beba.chunk.js",
+    "static/css/main.bc7916d0.chunk.css",
+    "static/js/main.59d47740.chunk.js"
+  ]
+}
